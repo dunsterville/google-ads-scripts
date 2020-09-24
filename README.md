@@ -7,7 +7,7 @@ These scripts are to be used for Google Ads and will send alerts to help you kee
   - Precent Deviation of Cost
 
 ##### Precent Deviation of Cost
-[Link to script](https://github.com/dunsterville/google-ads-scripts/cost_deviation.js)
+[Link to script](https://github.com/dunsterville/google-ads-scripts/blob/master/Cost%20Deviation.js)
 
 It is defaulted to 10% Day over Day, you can change that on line 1 like so
 ```js
@@ -24,7 +24,7 @@ var Email_ids = "your@email.it, example@domain.com"
 You can also change the Subject and content of the alert. The body of the emails is from lines 38-56 and the subject is on line 57 defaulted to "KB Cost Precent Difference Threshold Script"
 
 ##### Precent Deviation of CPA
-[Link to script](https://github.com/dunsterville/google-ads-scripts/cpa_deviation.js)
+[Link to script](https://github.com/dunsterville/google-ads-scripts/blob/master/CPA%20Deviation.js)
 
 Very similiar to Cost Deviation. It is defaulted to 10% Day over Day, you can change that on line 1 like so
 ```js
